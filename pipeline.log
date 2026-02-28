@@ -1,0 +1,342 @@
+2026-02-28 20:08:02,377 — INFO — Pipeline started
+2026-02-28 20:08:02,642 — INFO — API data fetched
+2026-02-28 20:08:02,651 — INFO — Merged dataset size: 3
+2026-02-28 20:08:02,652 — INFO — Validation passed
+2026-02-28 20:08:02,654 — INFO — Pipeline success
+2026-02-28 20:33:06,102 — INFO — Pipeline started
+2026-02-28 20:33:06,643 — INFO — API data fetched
+2026-02-28 20:33:06,652 — INFO — Merged dataset size: 3
+2026-02-28 20:33:06,653 — INFO — Validation passed
+2026-02-28 20:33:06,655 — INFO — Pipeline success
+2026-02-28 20:33:06,655 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:33:06,656 — INFO — Average price: 22183.446666666667
+2026-02-28 20:34:06,656 — INFO — Pipeline started
+2026-02-28 20:34:07,104 — INFO — API data fetched
+2026-02-28 20:34:07,112 — INFO — Merged dataset size: 3
+2026-02-28 20:34:07,112 — INFO — Validation passed
+2026-02-28 20:34:07,113 — INFO — Pipeline success
+2026-02-28 20:34:07,114 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:34:07,114 — INFO — Average price: 22178.91
+2026-02-28 20:35:07,114 — INFO — Pipeline started
+2026-02-28 20:35:07,551 — INFO — API data fetched
+2026-02-28 20:35:07,558 — INFO — Merged dataset size: 3
+2026-02-28 20:35:07,559 — INFO — Validation passed
+2026-02-28 20:35:07,560 — INFO — Pipeline success
+2026-02-28 20:35:07,560 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:35:07,560 — INFO — Average price: 22176.33666666667
+2026-02-28 20:36:07,561 — INFO — Pipeline started
+2026-02-28 20:36:08,004 — INFO — API data fetched
+2026-02-28 20:36:08,010 — INFO — Merged dataset size: 3
+2026-02-28 20:36:08,011 — INFO — Validation passed
+2026-02-28 20:36:08,012 — INFO — Pipeline success
+2026-02-28 20:36:08,012 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:36:08,012 — INFO — Average price: 22173.61
+2026-02-28 20:37:08,013 — INFO — Pipeline started
+2026-02-28 20:37:08,450 — INFO — API data fetched
+2026-02-28 20:37:08,460 — INFO — Merged dataset size: 3
+2026-02-28 20:37:08,461 — INFO — Validation passed
+2026-02-28 20:37:08,462 — INFO — Pipeline success
+2026-02-28 20:37:08,463 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:37:08,463 — INFO — Average price: 22170.12
+2026-02-28 20:38:08,464 — INFO — Pipeline started
+2026-02-28 20:38:09,033 — INFO — API data fetched
+2026-02-28 20:38:09,041 — INFO — Merged dataset size: 3
+2026-02-28 20:38:09,041 — INFO — Validation passed
+2026-02-28 20:38:09,043 — INFO — Pipeline success
+2026-02-28 20:38:09,043 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:38:09,044 — INFO — Average price: 22158.930000000004
+2026-02-28 20:39:09,044 — INFO — Pipeline started
+2026-02-28 20:39:09,270 — INFO — API data fetched
+2026-02-28 20:39:09,280 — INFO — Merged dataset size: 3
+2026-02-28 20:39:09,280 — INFO — Validation passed
+2026-02-28 20:39:09,282 — INFO — Pipeline success
+2026-02-28 20:39:09,282 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:39:09,282 — INFO — Average price: 22156.53
+2026-02-28 20:40:09,283 — INFO — Pipeline started
+2026-02-28 20:40:09,508 — INFO — API data fetched
+2026-02-28 20:40:09,515 — INFO — Merged dataset size: 3
+2026-02-28 20:40:09,516 — INFO — Validation passed
+2026-02-28 20:40:09,517 — INFO — Pipeline success
+2026-02-28 20:40:09,517 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:40:09,518 — INFO — Average price: 22157.91333333333
+2026-02-28 20:41:09,518 — INFO — Pipeline started
+2026-02-28 20:41:09,961 — INFO — API data fetched
+2026-02-28 20:41:09,975 — INFO — Merged dataset size: 3
+2026-02-28 20:41:09,975 — INFO — Validation passed
+2026-02-28 20:41:09,977 — INFO — Pipeline success
+2026-02-28 20:41:09,977 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:41:09,977 — INFO — Average price: 22153.173333333336
+2026-02-28 20:42:09,978 — INFO — Pipeline started
+2026-02-28 20:42:10,429 — INFO — API data fetched
+2026-02-28 20:42:10,440 — INFO — Merged dataset size: 3
+2026-02-28 20:42:10,441 — INFO — Validation passed
+2026-02-28 20:42:10,442 — INFO — Pipeline success
+2026-02-28 20:42:10,442 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:42:10,442 — INFO — Average price: 22139.193333333333
+2026-02-28 20:43:10,443 — INFO — Pipeline started
+2026-02-28 20:43:11,011 — INFO — API data fetched
+2026-02-28 20:43:11,018 — INFO — Merged dataset size: 3
+2026-02-28 20:43:11,019 — INFO — Validation passed
+2026-02-28 20:43:11,020 — INFO — Pipeline success
+2026-02-28 20:43:11,020 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:43:11,020 — INFO — Average price: 22142.61
+2026-02-28 20:44:11,021 — INFO — Pipeline started
+2026-02-28 20:44:11,519 — INFO — API data fetched
+2026-02-28 20:44:11,528 — INFO — Merged dataset size: 3
+2026-02-28 20:44:11,529 — INFO — Validation passed
+2026-02-28 20:44:11,530 — INFO — Pipeline success
+2026-02-28 20:44:11,530 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:44:11,530 — INFO — Average price: 22139.203333333335
+2026-02-28 20:45:11,531 — INFO — Pipeline started
+2026-02-28 20:45:11,980 — INFO — API data fetched
+2026-02-28 20:45:11,989 — INFO — Merged dataset size: 3
+2026-02-28 20:45:11,990 — INFO — Validation passed
+2026-02-28 20:45:11,992 — INFO — Pipeline success
+2026-02-28 20:45:11,992 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:45:11,992 — INFO — Average price: 22157.883333333335
+2026-02-28 20:46:11,993 — INFO — Pipeline started
+2026-02-28 20:46:12,564 — INFO — API data fetched
+2026-02-28 20:46:12,571 — INFO — Merged dataset size: 3
+2026-02-28 20:46:12,572 — INFO — Validation passed
+2026-02-28 20:46:12,573 — INFO — Pipeline success
+2026-02-28 20:46:12,574 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:46:12,574 — INFO — Average price: 22178.346666666668
+2026-02-28 20:47:12,574 — INFO — Pipeline started
+2026-02-28 20:47:13,058 — INFO — API data fetched
+2026-02-28 20:47:13,068 — INFO — Merged dataset size: 3
+2026-02-28 20:47:13,068 — INFO — Validation passed
+2026-02-28 20:47:13,069 — INFO — Pipeline success
+2026-02-28 20:47:13,070 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:47:13,070 — INFO — Average price: 22186.239999999994
+2026-02-28 20:48:13,071 — INFO — Pipeline started
+2026-02-28 20:48:13,748 — INFO — API data fetched
+2026-02-28 20:48:13,754 — INFO — Merged dataset size: 3
+2026-02-28 20:48:13,755 — INFO — Validation passed
+2026-02-28 20:48:13,756 — INFO — Pipeline success
+2026-02-28 20:48:13,756 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:48:13,756 — INFO — Average price: 22204.49666666667
+2026-02-28 20:49:13,757 — INFO — Pipeline started
+2026-02-28 20:49:14,199 — INFO — API data fetched
+2026-02-28 20:49:14,211 — INFO — Merged dataset size: 3
+2026-02-28 20:49:14,211 — INFO — Validation passed
+2026-02-28 20:49:14,213 — INFO — Pipeline success
+2026-02-28 20:49:14,213 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:49:14,213 — INFO — Average price: 22217.77333333333
+2026-02-28 20:50:14,214 — INFO — Pipeline started
+2026-02-28 20:50:14,661 — INFO — API data fetched
+2026-02-28 20:50:14,667 — INFO — Merged dataset size: 3
+2026-02-28 20:50:14,667 — INFO — Validation passed
+2026-02-28 20:50:14,669 — INFO — Pipeline success
+2026-02-28 20:50:14,669 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:50:14,669 — INFO — Average price: 22307.516666666663
+2026-02-28 20:51:14,670 — INFO — Pipeline started
+2026-02-28 20:51:15,145 — INFO — API data fetched
+2026-02-28 20:51:15,155 — INFO — Merged dataset size: 3
+2026-02-28 20:51:15,155 — INFO — Validation passed
+2026-02-28 20:51:15,157 — INFO — Pipeline success
+2026-02-28 20:51:15,158 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:51:15,158 — INFO — Average price: 22340.403333333335
+2026-02-28 20:52:15,159 — INFO — Pipeline started
+2026-02-28 20:52:15,647 — INFO — API data fetched
+2026-02-28 20:52:15,657 — INFO — Merged dataset size: 3
+2026-02-28 20:52:15,658 — INFO — Validation passed
+2026-02-28 20:52:15,659 — INFO — Pipeline success
+2026-02-28 20:52:15,660 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:52:15,660 — INFO — Average price: 22351.666666666668
+2026-02-28 20:53:15,661 — INFO — Pipeline started
+2026-02-28 20:53:16,836 — INFO — API data fetched
+2026-02-28 20:53:16,845 — INFO — Merged dataset size: 3
+2026-02-28 20:53:16,846 — INFO — Validation passed
+2026-02-28 20:53:16,847 — INFO — Pipeline success
+2026-02-28 20:53:16,847 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:53:16,847 — INFO — Average price: 22359.173333333336
+2026-02-28 20:54:16,848 — INFO — Pipeline started
+2026-02-28 20:54:17,957 — INFO — API data fetched
+2026-02-28 20:54:17,962 — INFO — Merged dataset size: 3
+2026-02-28 20:54:17,963 — INFO — Validation passed
+2026-02-28 20:54:17,964 — INFO — Pipeline success
+2026-02-28 20:54:17,964 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:54:17,965 — INFO — Average price: 22403.88
+2026-02-28 20:55:17,965 — INFO — Pipeline started
+2026-02-28 20:55:18,406 — INFO — API data fetched
+2026-02-28 20:55:18,415 — INFO — Merged dataset size: 3
+2026-02-28 20:55:18,415 — INFO — Validation passed
+2026-02-28 20:55:18,416 — INFO — Pipeline success
+2026-02-28 20:55:18,417 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:55:18,417 — INFO — Average price: 22447.399999999998
+2026-02-28 20:56:18,418 — INFO — Pipeline started
+2026-02-28 20:56:18,843 — INFO — API data fetched
+2026-02-28 20:56:18,848 — INFO — Merged dataset size: 3
+2026-02-28 20:56:18,849 — INFO — Validation passed
+2026-02-28 20:56:18,850 — INFO — Pipeline success
+2026-02-28 20:56:18,851 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:56:18,851 — INFO — Average price: 22445.796666666665
+2026-02-28 20:57:18,851 — INFO — Pipeline started
+2026-02-28 20:57:19,275 — INFO — API data fetched
+2026-02-28 20:57:19,286 — INFO — Merged dataset size: 3
+2026-02-28 20:57:19,286 — INFO — Validation passed
+2026-02-28 20:57:19,287 — INFO — Pipeline success
+2026-02-28 20:57:19,288 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:57:19,288 — INFO — Average price: 22414.7
+2026-02-28 20:58:19,289 — INFO — Pipeline started
+2026-02-28 20:58:20,737 — INFO — API data fetched
+2026-02-28 20:58:20,741 — INFO — Merged dataset size: 3
+2026-02-28 20:58:20,741 — INFO — Validation passed
+2026-02-28 20:58:20,742 — INFO — Pipeline success
+2026-02-28 20:58:20,742 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:58:20,743 — INFO — Average price: 22434.643333333337
+2026-02-28 20:59:20,744 — INFO — Pipeline started
+2026-02-28 20:59:21,290 — INFO — API data fetched
+2026-02-28 20:59:21,294 — INFO — Merged dataset size: 3
+2026-02-28 20:59:21,294 — INFO — Validation passed
+2026-02-28 20:59:21,295 — INFO — Pipeline success
+2026-02-28 20:59:21,295 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 20:59:21,296 — INFO — Average price: 22452.11
+2026-02-28 21:00:21,296 — INFO — Pipeline started
+2026-02-28 21:00:21,824 — INFO — API data fetched
+2026-02-28 21:00:21,834 — INFO — Merged dataset size: 3
+2026-02-28 21:00:21,835 — INFO — Validation passed
+2026-02-28 21:00:21,837 — INFO — Pipeline success
+2026-02-28 21:00:21,837 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 21:00:21,837 — INFO — Average price: 22508.406666666666
+2026-02-28 21:01:21,838 — INFO — Pipeline started
+2026-02-28 21:01:25,709 — INFO — API data fetched
+2026-02-28 21:01:25,721 — INFO — Merged dataset size: 3
+2026-02-28 21:01:25,722 — INFO — Validation passed
+2026-02-28 21:01:25,723 — INFO — Pipeline success
+2026-02-28 21:01:25,724 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 21:01:25,724 — INFO — Average price: 22552.376666666667
+2026-02-28 21:02:25,724 — INFO — Pipeline started
+2026-02-28 21:02:26,117 — INFO — API data fetched
+2026-02-28 21:02:26,126 — INFO — Merged dataset size: 3
+2026-02-28 21:02:26,127 — INFO — Validation passed
+2026-02-28 21:02:26,128 — INFO — Pipeline success
+2026-02-28 21:02:26,129 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 21:02:26,129 — INFO — Average price: 22580.929999999997
+2026-02-28 21:03:26,130 — INFO — Pipeline started
+2026-02-28 21:03:26,726 — INFO — API data fetched
+2026-02-28 21:03:26,735 — INFO — Merged dataset size: 3
+2026-02-28 21:03:26,735 — INFO — Validation passed
+2026-02-28 21:03:26,737 — INFO — Pipeline success
+2026-02-28 21:03:26,738 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 21:03:26,738 — INFO — Average price: 22553.096666666665
+2026-02-28 21:04:26,739 — INFO — Pipeline started
+2026-02-28 21:04:27,202 — INFO — API data fetched
+2026-02-28 21:04:27,212 — INFO — Merged dataset size: 3
+2026-02-28 21:04:27,212 — INFO — Validation passed
+2026-02-28 21:04:27,213 — INFO — Pipeline success
+2026-02-28 21:04:27,214 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 21:04:27,214 — INFO — Average price: 22501.73
+2026-02-28 21:05:27,215 — INFO — Pipeline started
+2026-02-28 21:05:27,908 — INFO — API data fetched
+2026-02-28 21:05:27,918 — INFO — Merged dataset size: 3
+2026-02-28 21:05:27,919 — INFO — Validation passed
+2026-02-28 21:05:27,921 — INFO — Pipeline success
+2026-02-28 21:05:27,921 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 21:05:27,921 — INFO — Average price: 22471.270000000004
+2026-02-28 21:06:27,922 — INFO — Pipeline started
+2026-02-28 21:06:28,484 — INFO — API data fetched
+2026-02-28 21:06:28,493 — INFO — Merged dataset size: 3
+2026-02-28 21:06:28,494 — INFO — Validation passed
+2026-02-28 21:06:28,496 — INFO — Pipeline success
+2026-02-28 21:06:28,496 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 21:06:28,496 — INFO — Average price: 22453.323333333334
+2026-02-28 21:07:28,497 — INFO — Pipeline started
+2026-02-28 21:07:29,050 — INFO — API data fetched
+2026-02-28 21:07:29,057 — INFO — Merged dataset size: 3
+2026-02-28 21:07:29,058 — INFO — Validation passed
+2026-02-28 21:07:29,059 — INFO — Pipeline success
+2026-02-28 21:07:29,059 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 21:07:29,059 — INFO — Average price: 22460.953333333335
+2026-02-28 21:08:29,060 — INFO — Pipeline started
+2026-02-28 21:08:29,631 — INFO — API data fetched
+2026-02-28 21:08:29,636 — INFO — Merged dataset size: 3
+2026-02-28 21:08:29,636 — INFO — Validation passed
+2026-02-28 21:08:29,637 — INFO — Pipeline success
+2026-02-28 21:08:29,637 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 21:08:29,638 — INFO — Average price: 22462.75
+2026-02-28 21:09:29,638 — INFO — Pipeline started
+2026-02-28 21:09:30,197 — INFO — API data fetched
+2026-02-28 21:09:30,208 — INFO — Merged dataset size: 3
+2026-02-28 21:09:30,208 — INFO — Validation passed
+2026-02-28 21:09:30,210 — INFO — Pipeline success
+2026-02-28 21:09:30,210 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 21:09:30,211 — INFO — Average price: 22475.540000000005
+2026-02-28 21:10:30,211 — INFO — Pipeline started
+2026-02-28 21:10:30,727 — INFO — API data fetched
+2026-02-28 21:10:30,738 — INFO — Merged dataset size: 3
+2026-02-28 21:10:30,738 — INFO — Validation passed
+2026-02-28 21:10:30,740 — INFO — Pipeline success
+2026-02-28 21:10:30,740 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 21:10:30,741 — INFO — Average price: 22476.323333333334
+2026-02-28 21:11:30,742 — INFO — Pipeline started
+2026-02-28 21:11:31,191 — INFO — API data fetched
+2026-02-28 21:11:31,195 — INFO — Merged dataset size: 3
+2026-02-28 21:11:31,196 — INFO — Validation passed
+2026-02-28 21:11:31,196 — INFO — Pipeline success
+2026-02-28 21:11:31,197 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 21:11:31,197 — INFO — Average price: 22492.790000000005
+2026-02-28 21:12:31,198 — INFO — Pipeline started
+2026-02-28 21:12:33,437 — INFO — API data fetched
+2026-02-28 21:12:33,446 — INFO — Merged dataset size: 3
+2026-02-28 21:12:33,447 — INFO — Validation passed
+2026-02-28 21:12:33,449 — INFO — Pipeline success
+2026-02-28 21:12:33,450 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 21:12:33,450 — INFO — Average price: 22497.563333333335
+2026-02-28 21:13:33,451 — INFO — Pipeline started
+2026-02-28 21:13:33,898 — INFO — API data fetched
+2026-02-28 21:13:33,902 — INFO — Merged dataset size: 3
+2026-02-28 21:13:33,903 — INFO — Validation passed
+2026-02-28 21:13:33,904 — INFO — Pipeline success
+2026-02-28 21:13:33,904 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 21:13:33,905 — INFO — Average price: 22503.61666666667
+2026-02-28 21:14:33,905 — INFO — Pipeline started
+2026-02-28 21:14:34,342 — INFO — API data fetched
+2026-02-28 21:14:34,354 — INFO — Merged dataset size: 3
+2026-02-28 21:14:34,354 — INFO — Validation passed
+2026-02-28 21:14:34,355 — INFO — Pipeline success
+2026-02-28 21:14:34,356 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 21:14:34,356 — INFO — Average price: 22486.589999999997
+2026-02-28 21:15:34,356 — INFO — Pipeline started
+2026-02-28 21:15:34,927 — INFO — API data fetched
+2026-02-28 21:15:34,936 — INFO — Merged dataset size: 3
+2026-02-28 21:15:34,936 — INFO — Validation passed
+2026-02-28 21:15:34,938 — INFO — Pipeline success
+2026-02-28 21:15:34,938 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 21:15:34,938 — INFO — Average price: 22454.206666666665
+2026-02-28 21:16:34,939 — INFO — Pipeline started
+2026-02-28 21:16:35,385 — INFO — API data fetched
+2026-02-28 21:16:35,390 — INFO — Merged dataset size: 3
+2026-02-28 21:16:35,391 — INFO — Validation passed
+2026-02-28 21:16:35,392 — INFO — Pipeline success
+2026-02-28 21:16:35,392 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 21:16:35,392 — INFO — Average price: 22444.07666666667
+2026-02-28 21:25:42,137 — INFO — Pipeline started
+2026-02-28 21:27:02,841 — INFO — Pipeline started
+2026-02-28 21:27:02,851 — INFO — Merged dataset size: 3
+2026-02-28 21:27:02,851 — INFO — Validation passed
+2026-02-28 21:27:02,880 — INFO — Data stored in SQLite database
+2026-02-28 21:27:02,882 — INFO — Pipeline success
+2026-02-28 21:27:02,882 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 21:27:02,882 — INFO — Average price: 22444.07666666667
+2026-02-28 21:27:22,140 — INFO — Pipeline started
+2026-02-28 21:27:22,149 — INFO — Merged dataset size: 3
+2026-02-28 21:27:22,150 — INFO — Validation passed
+2026-02-28 21:27:22,166 — INFO — Data stored in SQLite database
+2026-02-28 21:27:22,171 — INFO — Pipeline success
+2026-02-28 21:27:22,171 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 21:27:22,171 — INFO — Average price: 22444.07666666667
+2026-02-28 21:28:22,172 — INFO — Pipeline started
+2026-02-28 21:28:22,184 — INFO — Merged dataset size: 3
+2026-02-28 21:28:22,184 — INFO — Validation passed
+2026-02-28 21:28:22,205 — INFO — Data stored in SQLite database
+2026-02-28 21:28:22,207 — INFO — Pipeline success
+2026-02-28 21:28:22,207 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 21:28:22,208 — INFO — Average price: 22444.07666666667
+2026-02-28 21:29:22,208 — INFO — Pipeline started
+2026-02-28 21:29:22,215 — INFO — Merged dataset size: 3
+2026-02-28 21:29:22,215 — INFO — Validation passed
+2026-02-28 21:29:22,233 — INFO — Data stored in SQLite database
+2026-02-28 21:29:22,235 — INFO — Pipeline success
+2026-02-28 21:29:22,235 — INFO — Columns: ['id', 'symbol', 'current_price', 'market_cap', 'sector']
+2026-02-28 21:29:22,235 — INFO — Average price: 22444.07666666667

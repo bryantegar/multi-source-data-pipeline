@@ -1,0 +1,4 @@
+id,symbol,current_price,market_cap,sector
+bitcoin,btc,64831.0,1296429803226,store_of_value
+ethereum,eth,1898.32,229114237385,smart_contract
+binancecoin,bnb,602.91,82212324160,exchange_token
