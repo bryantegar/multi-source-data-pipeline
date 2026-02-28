@@ -5,6 +5,7 @@ from src.merge import merge_data
 from src.validate import validate
 from src.logger import logger
 from src.db import create_table, insert_data
+from src.validate import validate, remove_duplicates
 
 import pandas as pd
 

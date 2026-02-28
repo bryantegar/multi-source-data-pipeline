@@ -6,3 +6,6 @@ def validate(df):
         raise ValueError("Dataset empty")
 
     return True
+
+def remove_duplicates(df):
+    return df.drop_duplicates()
