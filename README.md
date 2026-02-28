@@ -1,14 +1,30 @@
-# Multi Source Data Pipeline
+# Multi Source Data Engineering Pipeline
 
 ## Overview
 
-This project demonstrates a data engineering pipeline that collects data from multiple sources (API and CSV), processes it, validates it, and outputs a cleaned dataset.
+This project simulates a production-style data engineering pipeline that ingests data from multiple sources, processes it, validates it, stores it in a database, and schedules automated execution.
+
+The goal is to demonstrate real-world data engineering practices such as modular architecture, logging, scheduling, and persistence.
 
 ---
 
-## Pipeline Flow
+## Architecture
 
-API + CSV → Transform → Merge → Validate → Output
+Data Flow:
+
+API + CSV → Transform → Merge → Validate → Store → Log → Scheduler
+
+---
+
+## Features
+
+* Multi-source ingestion (API + CSV)
+* Data transformation pipeline
+* Data validation system
+* SQLite database storage
+* Logging system
+* Automated scheduler
+* Modular architecture design
 
 ---
 
@@ -16,22 +32,56 @@ API + CSV → Transform → Merge → Validate → Output
 
 * Python
 * Pandas
+* SQLite
 * REST API
+* Logging
+* Scheduler automation
 
 ---
 
-## Skills Demonstrated
+## Project Structure
 
-* Multi-source data ingestion
-* Data transformation
-* Data merging
-* Data validation
-* Pipeline orchestration
+```
+src/
+ ┣ api_collector.py
+ ┣ transform.py
+ ┣ merge.py
+ ┣ validate.py
+ ┣ db.py
+ ┣ logger.py
+ ┗ pipeline.py
+```
 
 ---
 
-## Run Project
+## Run Pipeline
 
+```bash
+python -m src.pipeline
 ```
-python src/pipeline.py
+
+---
+
+## Run Scheduler
+
+```bash
+python scheduler.py
 ```
+
+---
+
+## Engineering Concepts Demonstrated
+
+* ETL pipeline design
+* Data validation architecture
+* Automated execution
+* Persistent storage integration
+* Logging & monitoring
+* Modular system design
+
+---
+
+## Author
+
+Bryan Tegar
+Aspiring Data Engineer
